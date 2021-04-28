@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5783119820",
+    "firebase_url": "https://crudex2-cd429.firebaseio.com",
+    "project_id": "crudex2-cd429",
+    "storage_bucket": "crudex2-cd429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5783119820:android:bd1e5490c2229cef",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5783119820-r57ggjqdnrgqohal4h9bhdat6mql8q2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eNkElnCFRevjxOvmqf6-Yrv32kIMVUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5783119820-r57ggjqdnrgqohal4h9bhdat6mql8q2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
